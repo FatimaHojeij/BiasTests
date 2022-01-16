@@ -12,3 +12,5 @@
 **arabic_gender_words.txt:** words added that represent gender, that are unique or tailored to the Arabic language (as opposed to the English-centric WEAT gendered terms).
 
 **WEFAT_ar.csv:** csv with male dominated careers taken from Calsikan et al. WEFAT tests and online sources for male dominated careers. This is used in the double heilman test and other gender tests. 
+
+**AWEAT.txt:** Added tests that take inspiration from the WEAT tests 
