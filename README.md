@@ -6,8 +6,12 @@
 
 **double_heilman_likable_hostile.txt:** the double heilman likable test translated and added. This test tests out that women, who are competent and successful in a male dominated field, are seen as unlikable and hostile. Check out [sent-bias](https://github.com/W4ngatang/sent-bias/blob/master/tests/heilman_double_bind_likable_one_sentence.jsonl).
 
-**weat6.txt, weat7.txt, weat8.txt:** direct Arabic translations of the weat 6,7, and 8 tests respectively. 
+**weat6.txt, weat7.txt, weat8.txt:** direct Arabic translations of the weat 6,7, and 8 tests respectively.
 
+**male_female_dominated_fields.txt:** typically male and female dominated fields with male/female attributes that are Arabic-centric.
+
+**career_family.txt:** career/family (inspired from WEAT6) but with male/female attributes (instead of targets) that are Arabic-centric.
+ 
 ### Resources:
 **SEAT_ARABIC.txt:** contains the arabic prefix/suffix words that are added to the tests to create bleached sentences. The '_' symbol shows the position where the SEAT_ARABIC text would be added.
 
