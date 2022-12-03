@@ -1,4 +1,4 @@
-[
+
     {
         "targ1m": {
             "category": "math [masculine]",
@@ -292,9 +292,9 @@
                 "الجبر هنا",
                 "هنالك الجبر"
             ]
-        }
+        
     },
-    {
+    
         "targ1f": {
             "category": "math [feminine]",
             "examples": [
@@ -587,9 +587,9 @@
                 "الجبر هنا",
                 "هنالك الجبر"
             ]
-        }
+        
     },
-    {
+    
         "targ2m": {
             "category": "arts [masculine]",
             "examples": [
@@ -826,9 +826,9 @@
                 "فن هنا",
                 "هنالك فن"
             ]
-        }
+        
     },
-    {
+    
         "targ2f": {
             "category": "arts [feminine]",
             "examples": [
@@ -1177,9 +1177,9 @@
                 "فن هنا",
                 "هنالك فن"
             ]
-        }
+        
     },
-    {
+    
         "attr1m": {
             "category": "masculine attributes",
             "examples": [
@@ -1240,9 +1240,9 @@
                 "شقيق هنا",
                 "هنالك شقيق"
             ]
-        }
+        
     },
-    {
+    
         "attr2f": {
             "category": "feminine attributes",
             "examples": [
@@ -1303,6 +1303,5 @@
                 "أخت هنا",
                 "هنالك أخت"
             ]
-        }
+        
     }
-]

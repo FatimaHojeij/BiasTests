@@ -1,4 +1,4 @@
-[
+
     {
         "targ1m": {
             "category": "math [masculine]",
@@ -348,9 +348,9 @@
                 "فيزياء هنالك",
                 "تلك فيزياء"
             ]
-        }
+        
     },
-    {
+    
         "targ1f": {
             "category": "math [feminine]",
             "examples": [
@@ -587,9 +587,9 @@
                 "فيزياء هنالك",
                 "تلك فيزياء"
             ]
-        }
+        
     },
-    {
+    
         "targ2m": {
             "category": "arts [masculine]",
             "examples": [
@@ -826,9 +826,9 @@
                 "فن هنالك",
                 "تلك فن"
             ]
-        }
+        
     },
-    {
+    
         "targ2f": {
             "category": "arts [feminine]",
             "examples": [
@@ -1177,9 +1177,9 @@
                 "فن هنالك",
                 "فن هناك"
             ]
-        }
+        
     },
-    {
+    
         "attr1m": {
             "category": "masculine attributes",
             "examples": [
@@ -1240,9 +1240,9 @@
                 "أب هنالك",
                 "أب هناك"
             ]
-        }
+        
     },
-    {
+    
         "attr2f": {
             "category": "feminine attributes",
             "examples": [
@@ -1305,4 +1305,3 @@
             ]
         }
     }
-]

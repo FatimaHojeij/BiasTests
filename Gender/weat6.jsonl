@@ -1,4 +1,4 @@
-[
+
     {
         "targ1m": {
             "category": "male names",
@@ -68,9 +68,8 @@
                 "حمزة هنا",
                 "هنالك حمزة"
             ]
-        }
     },
-    {
+    
         "targ2f": {
             "category": "female names",
             "examples": [
@@ -139,9 +138,9 @@
                 "جنى هنا",
                 "هنالك جنى"
             ]
-        }
+        
     },
-    {
+    
         "attr1m": {
             "category": "career [masculine]",
             "examples": [
@@ -210,9 +209,9 @@
                 "عمل هنا",
                 "هنالك عمل"
             ]
-        }
+        
     },
-    {
+    
         "attr1f": {
             "category": "career [feminine]",
             "examples": [
@@ -281,9 +280,9 @@
                 "عمل هنا",
                 "هنالك عمل"
             ]
-        }
+        
     },
-    {
+    
         "attr2m": {
             "category": "family [masculine]",
             "examples": [
@@ -352,9 +351,9 @@
                 "أقارب هنا",
                 "هنالك أقارب"
             ]
-        }
+        
     },
-    {
+    
         "attr2f": {
             "category": "family [feminine]",
             "examples": [
@@ -423,6 +422,5 @@
                 "أقارب هنا",
                 "هنالك أقارب"
             ]
-        }
+		}
     }
-]
